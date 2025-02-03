@@ -1,0 +1,6 @@
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/LearningInfiniTensor/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/rust-lang/rustlings.git
